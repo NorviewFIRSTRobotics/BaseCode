@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="BaseCode.main" target="11" />
+      <module name="BaseCode.test" target="11" />
+      <module name="Infinite-Recharge-2020-master.main" target="11" />
+      <module name="Infinite-Recharge-2020-master.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
